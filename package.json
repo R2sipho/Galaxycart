@@ -9,11 +9,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "http://127.0.0.1:3000/ Name of the Project Galaxy Shop An ecommerce platform.",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express.js": "^1.0.0",
     "nodemon": "^3.1.5",
     "stripe": "^16.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R2sipho/Galaxycart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/R2sipho/Galaxycart/issues"
+  },
+  "homepage": "https://github.com/R2sipho/Galaxycart#readme"
 }
